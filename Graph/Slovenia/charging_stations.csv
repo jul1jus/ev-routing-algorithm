@@ -1,0 +1,746 @@
+743007,150000:6,CCS,6,Tesla Supercharger
+743008,11000:2,Type 2,2,Megatel
+743009,350000:4,CCS,4,IONITY
+743010,11000:2,Type 2,2,Energie Steiermark
+743011,350000:4,CCS,4,IONITY
+743012,22000:2,Type 2,2,ELEN
+743013,22000:1, 50000:1,CCS;Type 2,2,ELEN
+743014,22000:1, 50000:2,CCS;Type 2,3,Petrol
+743015,22000:2,Type 2,2,Petrol
+743016,22000:2,Type 2,2,Petrol
+743017,22000:2,Type 2,2,Petrol
+743018,22000:2,Type 2,2,Gremo Na Elektriko
+743019,22000:2,Type 2,2,Gremo Na Elektriko
+743020,22000:2,Type 2,2,Gremo Na Elektriko
+743021,21000:2,Type 2,2,Petrol
+743022,14000:2,Type 2,2,Petrol
+743023,14000:2,Type 2,2,Petrol
+743024,14000:2,Type 2,2,Petrol
+743025,43000:1, 250000:1, 350000:2, 50000:1,CCS;Type 2,5,Petrol
+743026,50000:2, 22000:3,CCS;Type 2,5,Petrol
+743027,14000:2,Type 2,2,Petrol
+743028,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743029,43000:1, 50000:1,CCS;Type 2,2,Petrol
+743030,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743031,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743032,43000:1, 50000:1,CCS;Type 2,2,Petrol
+743033,22000:2,Type 2,2,Petrol
+743034,22000:2,Type 2,2,Petrol
+743035,43000:1, 50000:1,CCS;Type 2,2,Petrol
+743036,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743037,50000:3, 43000:1, 350000:2, 22000:1,CCS;Type 2,7,Petrol
+743038,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743039,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743040,50000:2, 43000:2,CCS;Type 2,4,Petrol
+743041,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743042,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743043,22000:2,Type 2,2,PolnilnePostaje
+743044,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743045,22000:6, 260000:2,CCS;Type 2,8,Petrol
+743046,22000:2,Type 2,2,Petrol
+743047,22000:2,Type 2,2,Petrol
+743048,22000:2,Type 2,2,Gremo Na Elektriko
+743049,22000:4,Type 2,4,Gremo Na Elektriko
+743050,9700:2,Type 2,2,Porsche Slovenija
+743051,22000:2,Type 2,2,Petrol
+743052,22000:2,Type 2,2,Gremo Na Elektriko
+743053,9700:2,Type 2,2,Porsche Slovenija
+743054,22000:2,Type 2,2,Gremo Na Elektriko
+743055,9000:2,Type 2,2,Megatel
+743056,22000:2,Type 2,2,Gremo Na Elektriko
+743057,22000:2,Type 2,2,Gremo Na Elektriko
+743058,22000:2,Type 2,2,Gremo Na Elektriko
+743059,22000:2,Type 2,2,Gremo Na Elektriko
+743060,22000:2,Type 2,2,Gremo Na Elektriko
+743061,22000:2,Type 2,2,Gremo Na Elektriko
+743062,22000:2,Type 2,2,Gremo Na Elektriko
+743063,22000:2,Type 2,2,Gremo Na Elektriko
+743064,22000:4,Type 2,4,Gremo Na Elektriko
+743065,22000:8, 43000:1, 50000:1,CCS;Type 2,10,Gremo Na Elektriko
+743066,11000:2, 40000:1, 20000:1, 22000:3, 32000:1,CCS;Type 2,8,Gremo Na Elektriko
+743067,22000:2,Type 2,2,Gremo Na Elektriko
+743068,22000:2,Type 2,2,Gremo Na Elektriko
+743069,22000:2,Type 2,2,Gremo Na Elektriko
+743070,22000:2,Type 2,2,Gremo Na Elektriko
+743071,22000:2,Type 2,2,Petrol
+743072,22000:2,Type 2,2,Gremo Na Elektriko
+743073,22000:2,Type 2,2,Gremo Na Elektriko
+743074,22000:2,Type 2,2,Gremo Na Elektriko
+743075,22000:2,Type 2,2,Gremo Na Elektriko
+743076,22000:2,Type 2,2,Gremo Na Elektriko
+743077,22000:2,Type 2,2,Gremo Na Elektriko
+743078,22000:2,Type 2,2,Gremo Na Elektriko
+743079,22000:2,Type 2,2,Gremo Na Elektriko
+743080,22000:2,Type 2,2,Gremo Na Elektriko
+743081,22000:2,Type 2,2,Gremo Na Elektriko
+743082,22000:2,Type 2,2,Gremo Na Elektriko
+743083,22000:2,Type 2,2,Gremo Na Elektriko
+743084,22000:2,Type 2,2,Gremo Na Elektriko
+743085,22000:2,Type 2,2,Gremo Na Elektriko
+743086,22000:2,Type 2,2,Gremo Na Elektriko
+743087,22000:2,Type 2,2,Gremo Na Elektriko
+743088,11000:2, 22000:2,Type 2,4,Null
+743089,22000:2,Type 2,2,Gremo Na Elektriko
+743090,22000:2,Type 2,2,Gremo Na Elektriko
+743091,50000:2, 22000:3,CCS;Type 2,5,Gremo Na Elektriko
+743092,22000:2,Type 2,2,Gremo Na Elektriko
+743093,22000:2,Type 2,2,Gremo Na Elektriko
+743094,11000:2,Type 2,2,Petrol
+743095,22000:2,Type 2,2,Gremo Na Elektriko
+743096,22000:2,Type 2,2,Gremo Na Elektriko
+743097,22000:2,Type 2,2,Gremo Na Elektriko
+743098,22000:2,Type 2,2,Null
+743099,22000:2,Type 2,2,Gremo Na Elektriko
+743100,22000:2,Type 2,2,Gremo Na Elektriko
+743101,22000:2,Type 2,2,Gremo Na Elektriko
+743102,22000:2,Type 2,2,Gremo Na Elektriko
+743103,22000:2,Type 2,2,Gremo Na Elektriko
+743104,22000:2,Type 2,2,Gremo Na Elektriko
+743105,22000:2,Type 2,2,Gremo Na Elektriko
+743106,22000:2,Type 2,2,Gremo Na Elektriko
+743107,22000:2,Type 2,2,Gremo Na Elektriko
+743108,22000:2,Type 2,2,Gremo Na Elektriko
+743109,22000:1,Type 2,1,Gremo Na Elektriko
+743110,22000:2,Type 2,2,Gremo Na Elektriko
+743111,22000:2,Type 2,2,Gremo Na Elektriko
+743112,22000:2,Type 2,2,Gremo Na Elektriko
+743113,22000:2,Type 2,2,Gremo Na Elektriko
+743114,22000:2,Type 2,2,Null
+743115,22000:2,Type 2,2,Gremo Na Elektriko
+743116,22000:2,Type 2,2,Gremo Na Elektriko
+743117,22000:2,Type 2,2,Gremo Na Elektriko
+743118,22000:2,Type 2,2,Gremo Na Elektriko
+743119,22000:2,Type 2,2,Gremo Na Elektriko
+743120,22000:2,Type 2,2,Gremo Na Elektriko
+743121,22000:2,Type 2,2,Gremo Na Elektriko
+743122,22000:2,Type 2,2,Gremo Na Elektriko
+743123,22000:2,Type 2,2,Gremo Na Elektriko
+743124,22000:2,Type 2,2,Gremo Na Elektriko
+743125,22000:2,Type 2,2,Gremo Na Elektriko
+743126,22000:2,Type 2,2,Gremo Na Elektriko
+743127,6900:2,Type 2,2,Null
+743128,22000:2,Type 2,2,Gremo Na Elektriko
+743129,22000:4,Type 2,4,Gremo Na Elektriko
+743130,22000:4,Type 2,4,Gremo Na Elektriko
+743131,22000:4,Type 2,4,Gremo Na Elektriko
+743132,22000:2,Type 2,2,Gremo Na Elektriko
+743133,22000:2,Type 2,2,Gremo Na Elektriko
+743134,22000:2,Type 2,2,Gremo Na Elektriko
+743135,22000:2,Type 2,2,Gremo Na Elektriko
+743136,22000:4,Type 2,4,Gremo Na Elektriko
+743137,22000:2,Type 2,2,Gremo Na Elektriko
+743138,22000:2,Type 2,2,Gremo Na Elektriko
+743139,22000:2,Type 2,2,Gremo Na Elektriko
+743140,22000:2,Type 2,2,Gremo Na Elektriko
+743141,22000:2,Type 2,2,Gremo Na Elektriko
+743142,22000:2,Type 2,2,Gremo Na Elektriko
+743143,22000:2,Type 2,2,Gremo Na Elektriko
+743144,22000:2,Type 2,2,Gremo Na Elektriko
+743145,22000:2,Type 2,2,Gremo Na Elektriko
+743146,22000:4,Type 2,4,Gremo Na Elektriko
+743147,11000:5,Type 2,5,Gremo Na Elektriko
+743148,11000:8, 30000:2,CCS;Type 2,10,Gremo Na Elektriko
+743149,22000:2,Type 2,2,Gremo Na Elektriko
+743150,22000:1,Type 2,1,Gremo Na Elektriko
+743151,350000:2,CCS,2,IONITY
+743152,350000:4,CCS,4,IONITY
+743153,22000:2,Type 2,2,Gremo Na Elektriko
+743154,22000:6,Type 2,6,Gremo Na Elektriko
+743155,22000:2,Type 2,2,Gremo Na Elektriko
+743156,22000:2,Type 2,2,Gremo Na Elektriko
+743157,22000:2,Type 2,2,Gremo Na Elektriko
+743158,22000:4,Type 2,4,Gremo Na Elektriko
+743159,22000:2,Type 2,2,Gremo Na Elektriko
+743160,9700:1, 24000:1,CCS;Type 2,2,Porsche Slovenija
+743161,22000:2,Type 2,2,Gremo Na Elektriko
+743162,22000:2,Type 2,2,Gremo Na Elektriko
+743163,9700:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743164,9700:1, 35000:1,CCS;Type 2,2,Porsche Slovenija
+743165,11000:1, 30000:1,CCS;Type 2,2,Porsche Slovenija
+743166,9700:1, 30000:1,CCS;Type 2,2,Porsche Slovenija
+743167,22000:1,Type 2,1,Gremo Na Elektriko
+743168,11000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743169,22000:2,Type 2,2,Gremo Na Elektriko
+743170,33000:1, 22000:1,CCS;Type 2,2,Porsche Slovenija
+743171,11000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743172,9700:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743173,22000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743174,11000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743175,22000:2,Type 2,2,Gremo Na Elektriko
+743176,120000:2, 11000:1, 50000:1,CCS;Type 2,4,Porsche Slovenija
+743177,22000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743178,11000:1, 40000:1,CCS;Type 2,2,Porsche Slovenija
+743179,11000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743180,11000:1, 22000:1,CCS;Type 2,2,Porsche Slovenija
+743181,85000:2, 11000:1, 50000:1,CCS;Type 2,4,Porsche Slovenija
+743182,35000:1, 22000:1, 9700:4,CCS;Type 2,6,Porsche Slovenija
+743183,75000:1, 22000:1,CCS;Type 2,2,Porsche Slovenija
+743184,60000:1, 19000:1,CCS;Type 2,2,Porsche Slovenija
+743185,75000:1, 21000:1,CCS;Type 2,2,Porsche Slovenija
+743186,11000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743187,22000:11,Type 2,11,Gremo Na Elektriko
+743188,150000:6,CCS,6,Tesla Supercharger
+743189,11000:2,Type 2,2,Energie Steiermark
+743190,11000:2,Type 2,2,Energie Steiermark
+743191,11000:2, 25000:1,CCS;Type 2,3,Porsche Slovenija
+743192,22000:2,Type 2,2,Gremo Na Elektriko
+743193,22000:2,Type 2,2,Gremo Na Elektriko
+743194,11000:1, 30000:1,CCS;Type 2,2,Porsche Slovenija
+743195,40000:1, 21000:1,CCS;Type 2,2,Porsche Slovenija
+743196,22000:2,Type 2,2,Petrol
+743197,21000:1, 22000:2, 35000:1,CCS;Type 2,4,Porsche Slovenija
+743198,50000:1, 21000:1, 55000:2,CCS;Type 2,4,Porsche Slovenija
+743199,22000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743200,11000:2, 22000:1, 75000:1, 21000:1,CCS;Type 2,5,Porsche Slovenija
+743201,11000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743202,42000:1, 21000:1,CCS;Type 2,2,Porsche Slovenija
+743203,22000:2,Type 2,2,Gremo Na Elektriko
+743204,33000:1, 22000:1,CCS;Type 2,2,Porsche Slovenija
+743205,9700:3, 65000:1,CCS;Type 2,4,Porsche Slovenija
+743206,11000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743207,30000:1, 22000:1,CCS;Type 2,2,Porsche Slovenija
+743208,11000:1, 33000:1,CCS;Type 2,2,Porsche Slovenija
+743209,35000:1, 14000:1,CCS;Type 2,2,Porsche Slovenija
+743210,40000:1, 22000:1,CCS;Type 2,2,Porsche Slovenija
+743211,22000:2,Type 2,2,Gremo Na Elektriko
+743212,22000:2,Type 2,2,Gremo Na Elektriko
+743213,11000:10,Type 2,10,Gremo Na Elektriko
+743214,75000:1, 21000:1,CCS;Type 2,2,Porsche Slovenija
+743215,22000:2,Type 2,2,Gremo Na Elektriko
+743216,22000:2,Type 2,2,Petrol
+743217,9700:2,Type 2,2,Petrol
+743218,22000:2,Type 2,2,Petrol
+743219,22000:2,Type 2,2,Petrol
+743220,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743221,22000:2,Type 2,2,Petrol
+743222,22000:2,Type 2,2,Petrol
+743223,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743224,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743225,22000:2,Type 2,2,Petrol
+743226,22000:4,Type 2,4,Petrol
+743227,350000:2, 43000:1, 50000:1, 250000:2,CCS;Type 2,6,Petrol
+743228,22000:2,Type 2,2,Petrol
+743229,22000:6,Type 2,6,Petrol
+743230,22000:4,Type 2,4,Petrol
+743231,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743232,22000:4,Type 2,4,Petrol
+743233,22000:4,Type 2,4,Petrol
+743234,22000:4,Type 2,4,Petrol
+743235,22000:2,Type 2,2,Petrol
+743236,22000:2,Type 2,2,Petrol
+743237,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743238,17000:2,Type 2,2,Petrol
+743239,22000:2,Type 2,2,Petrol
+743240,22000:2,Type 2,2,Petrol
+743241,17000:4,Type 2,4,Petrol
+743242,22000:2,Type 2,2,Petrol
+743243,22000:4,Type 2,4,Petrol
+743244,21000:2, 22000:2,Type 2,4,Petrol
+743245,22000:4,Type 2,4,Petrol
+743246,14000:2,Type 2,2,Petrol
+743247,17000:2,Type 2,2,Petrol
+743248,17000:2,Type 2,2,Petrol
+743249,11000:2,Type 2,2,Petrol
+743250,22000:2,Type 2,2,Petrol
+743251,17000:2,Type 2,2,Petrol
+743252,22000:2,Type 2,2,Petrol
+743253,22000:2,Type 2,2,Petrol
+743254,22000:2,Type 2,2,Petrol
+743255,22000:2,Type 2,2,Petrol
+743256,22000:2,Type 2,2,Petrol
+743257,22000:2,Type 2,2,Petrol
+743258,22000:2,Type 2,2,Petrol
+743259,22000:2,Type 2,2,Petrol
+743260,22000:2,Type 2,2,Petrol
+743261,14000:2,Type 2,2,Petrol
+743262,22000:4,Type 2,4,Petrol
+743263,50000:2, 43000:2, 250000:1, 350000:1,CCS;Type 2,6,Petrol
+743264,22000:2,Type 2,2,Petrol
+743265,22000:2,Type 2,2,Petrol
+743266,11000:2,Type 2,2,Petrol
+743267,14000:2,Type 2,2,Petrol
+743268,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743269,22000:2,Type 2,2,Petrol
+743270,22000:4,Type 2,4,Petrol
+743271,22000:2,Type 2,2,Petrol
+743272,22000:1,Type 2,1,Petrol
+743273,22000:2,Type 2,2,Petrol
+743274,22000:4,Type 2,4,Petrol
+743275,22000:4,Type 2,4,Petrol
+743276,22000:4,Type 2,4,Petrol
+743277,22000:4,Type 2,4,Petrol
+743278,22000:4,Type 2,4,Petrol
+743279,22000:4,Type 2,4,Petrol
+743280,22000:2,Type 2,2,Petrol
+743281,22000:4,Type 2,4,Petrol
+743282,22000:4,Type 2,4,Petrol
+743283,22000:4,Type 2,4,Petrol
+743284,22000:4,Type 2,4,Petrol
+743285,22000:4,Type 2,4,Petrol
+743286,22000:4,Type 2,4,Petrol
+743287,22000:4,Type 2,4,Petrol
+743288,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743289,50000:3, 250000:4, 22000:1, 43000:1,CCS;Type 2,9,Petrol
+743290,22000:4,Type 2,4,Petrol
+743291,50000:1, 22000:1,CCS;Type 2,2,Mol Plugee
+743292,43000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743293,22000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743294,50000:2, 22000:2,CCS;Type 2,4,Mol Plugee
+743295,22000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743296,22000:1, 9700:1,CCS;Type 2,2,Porsche Slovenija
+743297,50000:1, 350000:2, 43000:1,CCS;Type 2,4,Petrol
+743298,50000:1, 250000:1, 350000:1, 43000:1, 160000:2,CCS;Type 2,6,Petrol
+743299,50000:1, 43000:1, 350000:2,CCS;Type 2,4,Petrol
+743300,22000:4,Type 2,4,Petrol
+743301,22000:4,Type 2,4,Petrol
+743302,22000:2,Type 2,2,Null
+743303,22000:2,Type 2,2,Petrol
+743304,22000:1, 50000:1,CCS;Type 2,2,PolnilnePostaje
+743305,22000:2,Type 2,2,PolnilnePostaje
+743306,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743307,22000:4,Type 2,4,Petrol
+743308,22000:2,Type 2,2,Petrol
+743309,22000:2,Type 2,2,Gremo Na Elektriko
+743310,22000:2,Type 2,2,Gremo Na Elektriko
+743311,11000:10,Type 2,10,Gremo Na Elektriko
+743312,22000:2,Type 2,2,Gremo Na Elektriko
+743313,22000:2,Type 2,2,Gremo Na Elektriko
+743314,22000:2,Type 2,2,Gremo Na Elektriko
+743315,22000:2,Type 2,2,Gremo Na Elektriko
+743316,22000:2,Type 2,2,Gremo Na Elektriko
+743317,22000:2,Type 2,2,Gremo Na Elektriko
+743318,22000:5,Type 2,5,Gremo Na Elektriko
+743319,22000:2,Type 2,2,Gremo Na Elektriko
+743320,22000:2,Type 2,2,Gremo Na Elektriko
+743321,50000:2, 22000:1,CCS;Type 2,3,Petrol
+743322,11000:2,Type 2,2,Gremo Na Elektriko
+743323,22000:2,Type 2,2,Gremo Na Elektriko
+743324,22000:4,Type 2,4,Gremo Na Elektriko
+743325,11000:16, 4100:1,Type 2,17,Porsche Slovenija
+743326,11000:10,Type 2,10,Gremo Na Elektriko
+743327,22000:2,Type 2,2,Gremo Na Elektriko
+743328,22000:2,Type 2,2,Gremo Na Elektriko
+743329,9700:5, 33000:1,CCS;Type 2,6,Porsche Slovenija
+743330,22000:4,Type 2,4,Gremo Na Elektriko
+743331,22000:2,Type 2,2,Petrol
+743332,22000:4,Type 2,4,Petrol
+743333,22000:2,Type 2,2,Petrol
+743334,11000:2,Type 2,2,Petrol
+743335,11000:2,Type 2,2,Petrol
+743336,22000:2,Type 2,2,Gremo Na Elektriko
+743337,22000:4,Type 2,4,Gremo Na Elektriko
+743338,22000:9,Type 2,9,Gremo Na Elektriko
+743339,22000:4,Type 2,4,Gremo Na Elektriko
+743340,11000:2, 70000:1, 22000:1,CCS;Type 2,4,Porsche Slovenija
+743341,11000:6,Type 2,6,Porsche Slovenija
+743342,11000:2,Type 2,2,Gremo Na Elektriko
+743343,22000:4,Type 2,4,Petrol
+743344,22000:4, 350000:4,CCS;Type 2,8,Petrol
+743345,22000:2,Type 2,2,Gremo Na Elektriko
+743346,9700:1,Type 2,1,Porsche Slovenija
+743347,9700:1,Type 2,1,Porsche Slovenija
+743348,22000:2,Type 2,2,Petrol
+743349,9700:1, 41000:1,CCS;Type 2,2,Porsche Slovenija
+743350,22000:4,Type 2,4,Petrol
+743351,22000:6,Type 2,6,Gremo Na Elektriko
+743352,9700:1, 30000:1,CCS;Type 2,2,Porsche Slovenija
+743353,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743354,22000:2,Type 2,2,Gremo Na Elektriko
+743355,175000:2, 22000:1,CCS;Type 2,3,Petrol
+743356,22000:4,Type 2,4,Petrol
+743357,22000:4,Type 2,4,Petrol
+743358,9700:1,Type 2,1,Porsche Slovenija
+743359,350000:4,CCS,4,IONITY
+743360,22000:2,Type 2,2,Petrol
+743361,350000:2,CCS,2,ChargePoint
+743362,22000:2,Type 2,2,Gremo Na Elektriko
+743363,14000:2,Type 2,2,Petrol
+743364,22000:1,Type 2,1,Petrol
+743365,14000:1,Type 2,1,Petrol
+743366,9700:4,Type 2,4,Porsche Slovenija
+743367,22000:2,Type 2,2,Null
+743368,11000:1, 22000:1,Type 2,2,Porsche Slovenija
+743369,22000:14,Type 2,14,Gremo Na Elektriko
+743370,9700:2,Type 2,2,Porsche Slovenija
+743371,22000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743372,22000:1, 50000:1, 160000:1,CCS;Type 2,3,Mol Plugee
+743373,50000:1, 43000:1,CCS;Type 2,2,Mol Plugee
+743374,22000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743375,22000:4,Type 2,4,Petrol
+743376,22000:2,Type 2,2,Petrol
+743377,50000:2, 22000:1,CCS;Type 2,3,Petrol
+743378,9700:2,Type 2,2,Porsche Slovenija
+743379,250000:8,CCS,8,Tesla Supercharger
+743380,9700:2,Type 2,2,Porsche Slovenija
+743381,22000:4,Type 2,4,Petrol
+743382,7600:2,Type 2,2,Porsche Slovenija
+743383,9700:2,Type 2,2,Porsche Slovenija
+743384,11000:2,Type 2,2,Petrol
+743385,22000:1,Type 2,1,Petrol
+743386,22000:1,Type 2,1,Petrol
+743387,22000:4,Type 2,4,Petrol
+743388,50000:2, 22000:1,CCS;Type 2,3,Petrol
+743389,9700:2,Type 2,2,Porsche Slovenija
+743390,22000:2,Type 2,2,Gremo Na Elektriko
+743391,22000:2,Type 2,2,Gremo Na Elektriko
+743392,22000:6, 11000:3, 35000:2,CCS;Type 2,11,Gremo Na Elektriko
+743393,22000:2,Type 2,2,Gremo Na Elektriko
+743394,22000:2,Type 2,2,Gremo Na Elektriko
+743395,11000:2,Type 2,2,Gremo Na Elektriko
+743396,22000:8, 11000:2, 50000:1,CCS;Type 2,11,Gremo Na Elektriko
+743397,11000:2,Type 2,2,Gremo Na Elektriko
+743398,22000:2,Type 2,2,Gremo Na Elektriko
+743399,11000:2,Type 2,2,Null
+743400,11000:1,Type 2,1,Gremo Na Elektriko
+743401,11000:2,Type 2,2,Gremo Na Elektriko
+743402,22000:2,Type 2,2,Petrol
+743403,17000:2,Type 2,2,Petrol
+743404,22000:4,Type 2,4,Gremo Na Elektriko
+743405,22000:4,Type 2,4,Gremo Na Elektriko
+743406,11000:1,Type 2,1,Gremo Na Elektriko
+743407,9700:2,Type 2,2,Porsche Slovenija
+743408,9700:2,Type 2,2,Porsche Slovenija
+743409,9700:2,Type 2,2,Porsche Slovenija
+743410,22000:11, 40000:2, 60000:4, 11000:1,CCS;Type 2,18,Megatel
+743411,6900:4,Type 2,4,Megatel
+743412,22000:4, 40000:2,CCS;Type 2,6,Megatel
+743413,22000:1,Type 2,1,Megatel
+743414,22000:2,Type 2,2,Megatel
+743415,22000:6,Type 2,6,Megatel
+743416,22000:2,Type 2,2,Megatel
+743417,11000:1,Type 2,1,Megatel
+743418,11000:1,Type 2,1,Megatel
+743419,22000:1,Type 2,1,Megatel
+743420,22000:2,Type 2,2,Megatel
+743421,22000:2,Type 2,2,Megatel
+743422,22000:1,Type 2,1,Megatel
+743423,17000:2,Type 2,2,Megatel
+743424,22000:2,Type 2,2,Megatel
+743425,11000:2,Type 2,2,Megatel
+743426,22000:1,Type 2,1,Megatel
+743427,22000:2,Type 2,2,Gremo Na Elektriko
+743428,11000:3,Type 2,3,Gremo Na Elektriko
+743429,11000:4,Type 2,4,Gremo Na Elektriko
+743430,43000:1, 50000:1,CCS;Type 2,2,Petrol
+743431,11000:2,Type 2,2,Gremo Na Elektriko
+743432,35000:2,CCS,2,Megatel
+743433,22000:1,Type 2,1,Megatel
+743434,22000:2,Type 2,2,Megatel
+743435,9700:2,Type 2,2,Porsche Slovenija
+743436,9700:2,Type 2,2,Porsche Slovenija
+743437,11000:2,Type 2,2,Gremo Na Elektriko
+743438,22000:6,Type 2,6,Gremo Na Elektriko
+743439,260000:2, 22000:6,CCS;Type 2,8,Petrol
+743440,22000:2,Type 2,2,Gremo Na Elektriko
+743441,9700:2,Type 2,2,Porsche Slovenija
+743442,11000:1,Type 2,1,Gremo Na Elektriko
+743443,22000:2,Type 2,2,Megatel
+743444,22000:1, 350000:2, 50000:2,CCS;Type 2,5,Petrol
+743445,22000:4,Type 2,4,Petrol
+743446,22000:4,Type 2,4,Megatel
+743447,22000:2,Type 2,2,Petrol
+743448,9700:1,Type 2,1,Porsche Slovenija
+743449,11000:2,Type 2,2,Megatel
+743450,22000:2,Type 2,2,Petrol
+743451,9700:2,Type 2,2,Porsche Slovenija
+743452,11000:2,Type 2,2,Megatel
+743453,11000:2,Type 2,2,Megatel
+743454,22000:2,Type 2,2,Megatel
+743455,9700:2,Type 2,2,Porsche Slovenija
+743456,22000:2,Type 2,2,Petrol
+743457,22000:2,Type 2,2,Megatel
+743458,22000:2,Type 2,2,Petrol
+743459,22000:2,Type 2,2,Petrol
+743460,22000:2,Type 2,2,Petrol
+743461,22000:2,Type 2,2,Petrol
+743462,22000:2,Type 2,2,Gremo Na Elektriko
+743463,9700:2,Type 2,2,Porsche Slovenija
+743464,22000:1,Type 2,1,Gremo Na Elektriko
+743465,22000:4,Type 2,4,Petrol
+743466,9700:4,Type 2,4,Porsche Slovenija
+743467,250000:8,CCS,8,Tesla Supercharger
+743468,9700:2,Type 2,2,Porsche Slovenija
+743469,11000:2,Type 2,2,Gremo Na Elektriko
+743470,22000:2,Type 2,2,Megatel
+743471,20000:1,Type 2,1,Gremo Na Elektriko
+743472,11000:2,Type 2,2,Gremo Na Elektriko
+743473,22000:2,Type 2,2,Gremo Na Elektriko
+743474,22000:3,Type 2,3,Gremo Na Elektriko
+743475,22000:2,Type 2,2,Gremo Na Elektriko
+743476,22000:2,Type 2,2,Petrol
+743477,22000:1,Type 2,1,Petrol
+743478,22000:1,Type 2,1,Petrol
+743479,40000:2,CCS,2,Megatel
+743480,11000:2,Type 2,2,Megatel
+743481,11000:2,Type 2,2,Megatel
+743482,11000:2,Type 2,2,Megatel
+743483,11000:2,Type 2,2,Megatel
+743484,75000:1, 22000:1,CCS;Type 2,2,Megatel
+743485,22000:3,Type 2,3,Megatel
+743486,11000:2,Type 2,2,Megatel
+743487,350000:4,CCS,4,IONITY
+743488,350000:4,CCS,4,IONITY
+743489,11000:4,Type 2,4,Megatel
+743490,22000:2,Type 2,2,Petrol
+743491,50000:2,CCS,2,Petrol
+743492,9700:2,Type 2,2,Porsche Slovenija
+743493,22000:10, 50000:2,CCS;Type 2,12,Gremo Na Elektriko
+743494,22000:2,Type 2,2,Megatel
+743495,22000:10,Type 2,10,Petrol
+743496,9700:2,Type 2,2,Porsche Slovenija
+743497,22000:2,Type 2,2,Megatel
+743498,22000:2,Type 2,2,Megatel
+743499,22000:2,Type 2,2,Gremo Na Elektriko
+743500,22000:2,Type 2,2,Null
+743501,9700:2,Type 2,2,Porsche Slovenija
+743502,9700:1,Type 2,1,Porsche Slovenija
+743503,22000:2,Type 2,2,Petrol
+743504,9700:1,Type 2,1,Porsche Slovenija
+743505,9700:2,Type 2,2,Porsche Slovenija
+743506,9700:2,Type 2,2,Porsche Slovenija
+743507,22000:2,Type 2,2,Gremo Na Elektriko
+743508,43000:1, 50000:3, 250000:4, 22000:1,CCS;Type 2,9,Petrol
+743509,11000:1,Type 2,1,Megatel
+743510,9700:1,Type 2,1,Porsche Slovenija
+743511,9700:2,Type 2,2,Porsche Slovenija
+743512,22000:1,Type 2,1,Megatel
+743513,22000:1, 11000:1,Type 2,2,Gremo Na Elektriko
+743514,11000:2,Type 2,2,Gremo Na Elektriko
+743515,11000:2,Type 2,2,Gremo Na Elektriko
+743516,11000:2,Type 2,2,Gremo Na Elektriko
+743517,22000:2,Type 2,2,Be Charge
+743518,22000:2,Type 2,2,Megatel
+743519,350000:6,CCS,6,IONITY
+743520,40000:2,CCS,2,Megatel
+743521,9700:2,Type 2,2,Porsche Slovenija
+743522,11000:2,Type 2,2,Gremo Na Elektriko
+743523,22000:6,Type 2,6,Petrol
+743524,9700:2,Type 2,2,Porsche Slovenija
+743525,9700:2,Type 2,2,Porsche Slovenija
+743526,9700:2,Type 2,2,Porsche Slovenija
+743527,9700:2,Type 2,2,Porsche Slovenija
+743528,9700:1,Type 2,1,Porsche Slovenija
+743529,9700:1,Type 2,1,Porsche Slovenija
+743530,9700:1,Type 2,1,Porsche Slovenija
+743531,40000:2,CCS,2,Megatel
+743532,11000:5,Type 2,5,Gremo Na Elektriko
+743533,22000:2,Type 2,2,Null
+743534,6000:2,Type 2,2,Megatel
+743535,30000:1, 22000:1,CCS;Type 2,2,Megatel
+743536,22000:5,Type 2,5,Petrol
+743537,11000:2,Type 2,2,Megatel
+743538,3900:2,Type 2,2,Megatel
+743539,3900:2,Type 2,2,Megatel
+743540,9700:2,Type 2,2,Megatel
+743541,22000:2,Type 2,2,Petrol
+743542,22000:2,Type 2,2,Petrol
+743543,11000:1,Type 2,1,Megatel
+743544,9700:1,Type 2,1,Porsche Slovenija
+743545,22000:2,Type 2,2,Gremo Na Elektriko
+743546,11000:1,Type 2,1,Megatel
+743547,11000:1,Type 2,1,Megatel
+743548,22000:2,Type 2,2,Petrol
+743549,9700:3, 22000:3,Type 2,6,Porsche Slovenija
+743550,22000:4,Type 2,4,Megatel
+743551,22000:1, 32000:1,Type 2,2,Null
+743552,22000:2,Type 2,2,Megatel
+743553,43000:1, 50000:1,CCS;Type 2,2,Petrol
+743554,50000:2, 22000:1,CCS;Type 2,3,Petrol
+743555,43000:1, 50000:1,CCS;Type 2,2,Petrol
+743556,50000:2,CCS,2,Petrol
+743557,43000:2, 50000:2,CCS;Type 2,4,Petrol
+743558,11000:2,Type 2,2,Megatel
+743559,22000:2,Type 2,2,Megatel
+743560,9700:2,Type 2,2,Porsche Slovenija
+743561,22000:4,Type 2,4,Gremo Na Elektriko
+743562,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743563,250000:2, 50000:1, 43000:1,CCS;Type 2,4,Null
+743564,350000:2, 43000:1, 50000:1,CCS;Type 2,4,Petrol
+743565,22000:1,Type 2,1,Megatel
+743566,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743567,50000:1, 43000:1,CCS;Type 2,2,Petrol
+743568,11000:1,Type 2,1,Megatel
+743569,22000:2,Type 2,2,Megatel
+743570,22000:2,Type 2,2,Petrol
+743571,22000:4,Type 2,4,Gremo Na Elektriko
+743572,22000:2,Type 2,2,Megatel
+743573,22000:2,Type 2,2,Megatel
+743574,9700:1, 130000:1,CCS;Type 2,2,Porsche Slovenija
+743575,9700:2,Type 2,2,Porsche Slovenija
+743576,9000:2,Type 2,2,Megatel
+743577,22000:2,Type 2,2,Petrol
+743578,22000:2,Type 2,2,Petrol
+743579,22000:2,Type 2,2,Petrol
+743580,22000:2,Type 2,2,Petrol
+743581,250000:8,CCS,8,Tesla Supercharger
+743582,22000:2,Type 2,2,Megatel
+743583,22000:2,Type 2,2,Gremo Na Elektriko
+743584,22000:2,Type 2,2,Megatel
+743585,250000:2, 350000:2,CCS,4,Petrol
+743586,11000:2,Type 2,2,Petrol
+743587,9700:9,Type 2,9,Porsche Slovenija
+743588,11000:2,Type 2,2,Gremo Na Elektriko
+743589,11000:2,Type 2,2,Gremo Na Elektriko
+743590,9700:2,Type 2,2,Porsche Slovenija
+743591,9700:2,Type 2,2,Porsche Slovenija
+743592,5100:2,Type 2,2,Megatel
+743593,11000:1,Type 2,1,illwerke vkw AG
+743594,17000:2,Type 2,2,Petrol
+743595,17000:2,Type 2,2,Petrol
+743596,22000:2,Type 2,2,Gremo Na Elektriko
+743597,22000:2,Type 2,2,Petrol
+743598,9700:2,Type 2,2,Porsche Slovenija
+743599,9700:1,Type 2,1,Porsche Slovenija
+743600,50000:1, 22000:1,CCS;Type 2,2,PolnilnePostaje
+743601,11000:2,Type 2,2,Gremo Na Elektriko
+743602,9700:1,Type 2,1,Porsche Slovenija
+743603,22000:2, 50000:4,CCS;Type 2,6,Petrol
+743604,22000:2,Type 2,2,Megatel
+743605,11000:6,Type 2,6,Megatel
+743606,11000:2,Type 2,2,Gremo Na Elektriko
+743607,11000:2,Type 2,2,Megatel
+743608,11000:2,Type 2,2,Megatel
+743609,22000:4,Type 2,4,Megatel
+743610,11000:2,Type 2,2,Megatel
+743611,22000:3,Type 2,3,Megatel
+743612,22000:1,Type 2,1,Megatel
+743613,22000:2,Type 2,2,Megatel
+743614,22000:2,Type 2,2,Megatel
+743615,11000:2,Type 2,2,Megatel
+743616,22000:4,Type 2,4,Null
+743617,22000:1, 11000:1,Type 2,2,Megatel
+743618,22000:1,Type 2,1,Null
+743619,11000:2,Type 2,2,Megatel
+743620,5500:2,Type 2,2,Petrol
+743621,22000:4,Type 2,4,Petrol
+743622,22000:2, 11000:2,Type 2,4,Gremo Na Elektriko
+743623,30000:2,CCS,2,Megatel
+743624,60000:2, 22000:1,CCS;Type 2,3,Megatel
+743625,22000:2,Type 2,2,Null
+743626,22000:2,Type 2,2,Megatel
+743627,22000:2,Type 2,2,Null
+743628,22000:2,Type 2,2,Null
+743629,11000:1,Type 2,1,Null
+743630,22000:2,Type 2,2,Petrol
+743631,22000:1,Type 2,1,Null
+743632,22000:1,Type 2,1,Megatel
+743633,50000:2, 22000:1,CCS;Type 2,3,PolnilnePostaje
+743634,22000:4,Type 2,4,Null
+743635,11000:4,Type 2,4,Null
+743636,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743637,25000:1,CCS,1,Lidl
+743638,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743639,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743640,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743641,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743642,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743643,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743644,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743645,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743646,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743647,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743648,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743649,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743650,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743651,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743652,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743653,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743654,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743655,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743656,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743657,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743658,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743659,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743660,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743661,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743662,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743663,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743664,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743665,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743666,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743667,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743668,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743669,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743670,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743671,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743672,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743673,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743674,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743675,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743676,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743677,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743678,22000:1, 50000:1,CCS;Type 2,2,Lidl
+743679,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743680,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743681,250000:4,CCS,4,Tesla Supercharger
+743682,22000:2,Type 2,2,Megatel
+743683,30000:2,CCS,2,Megatel
+743684,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743685,25000:1,CCS,1,Lidl
+743686,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743687,25000:1,CCS,1,Lidl
+743688,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743689,50000:1, 43000:1,CCS;Type 2,2,Mol Plugee
+743690,43000:2, 50000:2,CCS;Type 2,4,Mol Plugee
+743691,50000:1, 43000:1,CCS;Type 2,2,Mol Plugee
+743692,43000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743693,43000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743694,43000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743695,43000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743696,43000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743697,43000:1, 50000:1, 175000:1,CCS;Type 2,3,Mol Plugee
+743698,43000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743699,43000:1, 50000:1,CCS;Type 2,2,Mol Plugee
+743700,250000:8,CCS,8,Tesla Supercharger
+743701,22000:2,Type 2,2,Gremo Na Elektriko
+743702,22000:4,Type 2,4,Megatel
+743703,22000:7, 50000:1,CCS;Type 2,8,Megatel
+743704,22000:1, 50000:1,CCS;Type 2,2,Megatel
+743705,22000:4,Type 2,4,Megatel
+743706,22000:2,Type 2,2,Megatel
+743707,11000:2,Type 2,2,Megatel
+743708,22000:4,Type 2,4,Megatel
+743709,22000:2,Type 2,2,Megatel
+743710,22000:1, 50000:1,CCS;Type 2,2,Megatel
+743711,22000:4,Type 2,4,Megatel
+743712,22000:2,Type 2,2,Megatel
+743713,22000:4,Type 2,4,Megatel
+743714,22000:1,Type 2,1,Megatel
+743715,22000:1,Type 2,1,Gremo Na Elektriko
+743716,17000:1,Type 2,1,Megatel
+743717,11000:2,Type 2,2,Megatel
+743718,190000:2,CCS,2,Porsche Slovenija
+743719,22000:4,Type 2,4,Megatel
+743720,50000:1, 22000:1,CCS;Type 2,2,Lidl
+743721,22000:4,Type 2,4,Gremo Na Elektriko
+743722,11000:1,Type 2,1,Gremo Na Elektriko
+743723,22000:1,Type 2,1,Megatel
+743724,160000:2,CCS,2,Megatel
+743725,150000:1, 75000:1,CCS,2,MOON POWER GmbH
+743726,250000:10,CCS,10,Tesla Supercharger
+743727,22000:10,Type 2,10,Petrol
+743728,22000:4,Type 2,4,Thermalhotel Fontana Hotelbetriebsgesellschaft mbH
+743729,22000:2,Type 2,2,Megatel
+743730,11000:2,Type 2,2,Megatel
+743731,22000:2,Type 2,2,Megatel
+743732,11000:2,Type 2,2,Petrol
+743733,9700:2,Type 2,2,Porsche Slovenija
+743734,22000:2,Type 2,2,Gremo Na Elektriko
+743735,22000:1,Type 2,1,Megatel
+743736,22000:6, 150000:2,CCS;Type 2,8,Petrol
+743737,22000:2,Type 2,2,Gremo Na Elektriko
+743738,11000:1,Type 2,1,BMW Charging @Destination
+743739,11000:2,Type 2,2,BMW Charging @Destination
+743740,11000:2,Type 2,2,BMW Charging @Destination
+743741,11000:2,Type 2,2,BMW Charging @Destination
+743742,11000:1,Type 2,1,BMW Charging @Destination
+743743,11000:1,Type 2,1,BMW Charging @Destination
+743744,11000:2,Type 2,2,BMW Charging @Destination
+743745,22000:2,Type 2,2,Gremo Na Elektriko
+743746,9700:2,Type 2,2,Porsche Slovenija
+743747,9700:2,Type 2,2,Porsche Slovenija
+743748,9700:2,Type 2,2,Porsche Slovenija
+743749,9700:2,Type 2,2,Porsche Slovenija
+743750,11000:2,Type 2,2,Gremo Na Elektriko
+743751,22000:2,Type 2,2,Petrol
+743752,9700:2,Type 2,2,Porsche Slovenija
