@@ -15,3 +15,17 @@ The Pareto objectives are:
 • Charging Time: Total time spent charging
 
 The program can be called using python routing_simple
+The output consists of two shape files per route, 1. the route itself, 2. the charging stops with history of values.
+
+Currently, only the Mini Cooper SE and Nissan Ariya are supported for route calculations.
+However, by specifying the parameters weight, height, width, drag coefficient, auxiliary power consumption, maximum AC/DC charging power, and battery size, routes can be calculated for any electric vehicle.
+
+
+Some examples:
+Route from Nørre Gade 55 in the city
+center of Aarhus to Strandby Kirkevej in Esbjerg. The straight-line distance between the
+two locations is 130 km. We set the initial state of charge (SoC) to 50%, making charging
+along the way unavoidable.
+![image](https://github.com/user-attachments/assets/345e3e7f-ee62-4770-805a-f488aa00f639)
+
+
